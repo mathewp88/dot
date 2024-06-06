@@ -613,7 +613,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="meshes/long_U.obj"/>
+        <mesh filename="package://dot/urdf/meshes/long_U.obj"/>
       </geometry>
       <material name="black"/>
     </visual>
@@ -639,7 +639,7 @@
     <visual>
       <origin rpy="0 1.5707963267949 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="meshes/section_1.obj"/>
+        <mesh filename="package://dot/urdf/meshes/section_1.obj"/>
       </geometry>
       <material name="black"/>
     </visual>
@@ -665,7 +665,7 @@
     <visual>
       <origin rpy="0 1.5707963267949 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="meshes/section_2.obj"/>
+        <mesh filename="package://dot/urdf/meshes/section_2.obj"/>
       </geometry>
       <material name="black"/>
     </visual>
@@ -691,7 +691,7 @@
     <visual>
       <origin rpy="0 3.14159268 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="meshes/section_3.obj"/>
+        <mesh filename="package://dot/urdf/meshes/section_3.obj"/>
       </geometry>
       <material name="black"/>
     </visual>
@@ -717,7 +717,7 @@
     <visual>
       <origin rpy="0 -1.5707963267949 0" xyz="0 -0.058 0"/>
       <geometry>
-        <mesh filename="meshes/section_4.obj"/>
+        <mesh filename="package://dot/urdf/meshes/section_4.obj"/>
       </geometry>
       <material name="black"/>
     </visual>
@@ -755,7 +755,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="meshes/gripper.obj"/>
+        <mesh filename="package://dot/urdf/meshes/gripper.obj"/>
       </geometry>
       <material name="black"/>
     </visual>

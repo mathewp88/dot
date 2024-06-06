@@ -37,7 +37,7 @@
   <link name="lidar_link">
      <visual>
        <geometry>
-         <mesh filename="package://dot/urdf/stl/rplidar_main.STL" scale="0.001 0.001 0.001"/>
+         <mesh filename="package://dot/urdf/stl/rplidar_main.stl" scale="0.001 0.001 0.001"/>
        </geometry>
        <material name="black"/>
        <origin rpy="1.57075 0 0" xyz="-0.06425 0.02885 0"/>
