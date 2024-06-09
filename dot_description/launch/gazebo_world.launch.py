@@ -13,7 +13,7 @@ def generate_launch_description():
  
   # Constants for paths to different files and folders
   gazebo_models_path = 'models'
-  package_name = 'dot'
+  package_name = 'dot_description'
   robot_name_in_model = 'dot'
   rviz_config_file_path = 'rviz/rviz_basic_settings.rviz'
   urdf_file_path = 'urdf/dot.urdf'
